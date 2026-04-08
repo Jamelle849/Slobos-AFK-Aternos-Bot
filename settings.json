@@ -8,7 +8,7 @@
   "server": {
     "ip": "serverngmgasigma.aternos.me",
     "port": 40724,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
